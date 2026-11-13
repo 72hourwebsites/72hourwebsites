@@ -16,7 +16,7 @@ I like practical work: a faster site, a clean WordPress build, or an automation 
 
 ### WordPress code
 
-- [72HW Showcase plugin](https://github.com/72hourwebsites/72hw-showcase): a small portfolio custom post type and accessible shortcode grid
+- [Project Portfolio Grid plugin](https://github.com/72hourwebsites/project-portfolio-grid): a small portfolio custom post type and accessible shortcode grid
 - [72HW Portfolio theme](https://github.com/72hourwebsites/72hw-portfolio): a lightweight, responsive portfolio theme built with native WordPress templates
 
 ### Own projects and demos
