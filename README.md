@@ -33,4 +33,4 @@ These are projects from my own businesses. The linked sites and demos are static
 
 ### Portfolio
 
-Visit [portfolio.72hourwebsites.com](https://portfolio.72hourwebsites.com/) for the WordPress showcase.
+Visit [portfolio.72hoursitepros.com](https://portfolio.72hoursitepros.com/) for the WordPress showcase.
